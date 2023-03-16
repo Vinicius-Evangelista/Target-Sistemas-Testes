@@ -1,0 +1,5 @@
+C:\Users\Vinicius\Desktop\Target-sistemas\1_fibonacci-verifier\bin\Debug\net7.0\publish\Target-sistemas.exe
+C:\Users\Vinicius\Desktop\Target-sistemas\1_fibonacci-verifier\bin\Debug\net7.0\publish\Target-sistemas.dll
+C:\Users\Vinicius\Desktop\Target-sistemas\1_fibonacci-verifier\bin\Debug\net7.0\publish\Target-sistemas.deps.json
+C:\Users\Vinicius\Desktop\Target-sistemas\1_fibonacci-verifier\bin\Debug\net7.0\publish\Target-sistemas.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Target-sistemas\1_fibonacci-verifier\bin\Debug\net7.0\publish\Target-sistemas.pdb
