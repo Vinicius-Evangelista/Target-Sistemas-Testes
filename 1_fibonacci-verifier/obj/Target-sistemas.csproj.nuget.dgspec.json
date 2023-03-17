@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius\\Desktop\\Target-sistemas\\1_fibonacci-verifier\\Target-sistemas.csproj": {}
+    "C:\\Users\\Vinicius\\Desktop\\Target-Sistemas-Testes\\1_fibonacci-verifier\\Target-sistemas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius\\Desktop\\Target-sistemas\\1_fibonacci-verifier\\Target-sistemas.csproj": {
+    "C:\\Users\\Vinicius\\Desktop\\Target-Sistemas-Testes\\1_fibonacci-verifier\\Target-sistemas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Target-sistemas\\1_fibonacci-verifier\\Target-sistemas.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Target-Sistemas-Testes\\1_fibonacci-verifier\\Target-sistemas.csproj",
         "projectName": "Target-sistemas",
-        "projectPath": "C:\\Users\\Vinicius\\Desktop\\Target-sistemas\\1_fibonacci-verifier\\Target-sistemas.csproj",
+        "projectPath": "C:\\Users\\Vinicius\\Desktop\\Target-Sistemas-Testes\\1_fibonacci-verifier\\Target-sistemas.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius\\Desktop\\Target-sistemas\\1_fibonacci-verifier\\obj\\",
+        "outputPath": "C:\\Users\\Vinicius\\Desktop\\Target-Sistemas-Testes\\1_fibonacci-verifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",

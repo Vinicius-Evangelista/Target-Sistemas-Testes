@@ -52,6 +52,7 @@ def get_month_media():
 
 def main():
     print_month_report()
+    k = input('Press ENTER to exit')
 
 if __name__ == '__main__':
     main()

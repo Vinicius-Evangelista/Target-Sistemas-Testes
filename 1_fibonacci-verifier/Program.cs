@@ -40,7 +40,7 @@ namespace TargetSistemas
 
             do
             {
-                
+
 
                 Console.Write("Number: ");
                 int number = Convert.ToInt32(Console.ReadLine());
@@ -52,6 +52,13 @@ namespace TargetSistemas
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"That's a bingo! {number} it's a Fibonacci number :) ");
                     Console.ResetColor();
+
+                    Console.WriteLine("Press ENTER to exit...");
+
+                    while (Console.ReadKey().Key != ConsoleKey.Enter)
+                    {
+                    }
+
                     break;
                 }
                 else
