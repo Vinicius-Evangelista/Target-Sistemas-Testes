@@ -6,7 +6,7 @@ Visando facilidade e ganho de tempo, os testes foram desenvolvido de um modo mui
 
 ## Agradecimento 🙂
 
-Obrigado por ter chegado até aqui. Me interessei bastante pela Target Sistemas e seria um sonho trabalhar com vocês! Tentei demonstrar ao máximo o meu pontencial com diversas tecnologias provando a minha capacidade de aprender rápido e trabalhar com diferentes tecnologias.
+Obrigado por ter chegado até aqui. Me interessei bastante pela Target Sistemas e seria um sonho trabalhar com vocês! Tentei demonstrar ao máximo o meu pontencial com diversas ferramentas provando a minha capacidade de aprender rápido e trabalhar com diferentes tecnologias.
 
 Linkedin: [Meu LinkedIn](https://www.linkedin.com/in/vinicius-do-nascimento-evangelista-1bb4aa224/)
 
