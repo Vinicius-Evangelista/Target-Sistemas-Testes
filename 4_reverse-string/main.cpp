@@ -6,6 +6,8 @@ int main()
 
     std::string str {"Target Sistemas"};
 
+    std::cout << str << std::endl;
+
     for (int index {str.length() - 1}; index >= 0; index--) {
         std::cout << str[index];
     }

@@ -10,4 +10,4 @@ Obrigado por ter chegado até aqui. Me interessei bastante pela Target Sistemas 
 
 Linkedin: [Meu LinkedIn](https://www.linkedin.com/in/vinicius-do-nascimento-evangelista-1bb4aa224/)
 
-Aproveitando que vocês está aqui, que tal dar uma olhada nos meus repositório/projetos 😄?
+Aproveitando que vocês está aqui, que tal dar uma olhada nos meus repositórios/projetos 😄?
